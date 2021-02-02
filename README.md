@@ -1,1 +1,1 @@
-# documentation
+# Lintol Documentation
