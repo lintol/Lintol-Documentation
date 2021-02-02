@@ -8,3 +8,8 @@ Datasets that are uploaded to a CKAN instance can use the Lintol extension to au
 
 For more help see the following sections
 - [Login](https://lintol.github.io/Lintol-Documentation/Login)
+- [Profiles](https://lintol.github.io/Lintol-Documentation/Profiles)
+- [Processors](https://lintol.github.io/Lintol-Documentation/Processors)
+- [Resources](https://lintol.github.io/Lintol-Documentation/Resources)
+- [Users](https://lintol.github.io/Lintol-Documentation/Users)
+- [Configuration](https://lintol.github.io/Lintol-Documentation/Configuration)
