@@ -3,7 +3,7 @@
 <!--Lintol can be used as a standalone tool or in conjunction with other platforms via an extension. For both these approaches, Lintol must first be set up through the Lintol management portal.-->
 Lintol is used in conjunction with platforms that host datasets. Logging into Lintol is done via authentication with one of these data hosting platforms. The most common integration is via CKAN
 
-##app.lintol.io
+## app.lintol.io
 app.lintol.io provides an interface to set up and configure Lintol and how it validates data. It is accessed via a web browser by entering the following url - http://app.lintol.io.
 
 The first page presented to the user is the login page. There are currently 2 authentication options: CKAN and Github<!--There are 3 options: Login, Forgotten password and Create a new user account. -->
