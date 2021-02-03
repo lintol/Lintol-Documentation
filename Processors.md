@@ -11,6 +11,7 @@ A list of data processors can be accessed by clicking on the 'Data Processors' l
 - Last updated date
 - Unique reference
 - Implentations - number of times the processor has been added to a data profile
+- Status
 
 <!--More details about an individual data processor can be viewed by clicking on the data processor entry in the list.-->
 

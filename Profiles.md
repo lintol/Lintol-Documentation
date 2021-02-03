@@ -2,7 +2,7 @@
 
 A data profile is an entity that's main purpose is to group together data processors by user preference. A data profile can be created and then data processors associated with it. Assigning a data profile to a data resource will run all the associated data processors against the data resource.
 
-![alt text](dps.png "A data profile containing data processors associated with a data resource")
+![alt text](./images/dps.png "A data profile containing data processors associated with a data resource")
 
 ## Overview
 A list of data profiles can be accessed by clicking on the 'Data Profiles' link in the main menu on the left hand side of the Lintol interface. Each entry in data profile list summarises the following information:
