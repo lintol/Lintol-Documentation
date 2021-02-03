@@ -26,11 +26,15 @@ At least one data processor must be added to a data profile. Data processors can
 
 <!--Further details about the data processor can be viewed by clicking on the "More Details" button in the data processor search entry. Data processors can also be attached to the data profile from the details popup by clicking on the "Add Processor" button in the top right of the popup.-->
 
-Data processors with specific options can be configured by clicking on the 'Edit' link when selecting processors for a profile. For more details on data processors, view the [Data Processors](./Processors) section of the documentation
+Data processors with specific options can be configured by clicking on the "Edit" link when selecting processors for a profile. For more details on data processors, view the [Data Processors](./Processors) section of the documentation
 
 ## Edit a Data Profile
 
 Selecting the 'Edit' action on the right side of a data profile entry will display the edit data profile page. The "Name", "Description" and associated processors can all be changed. Once the information has been edited, the changes can be saved by clicking on the 'Update Profile' button.
 
-## Archiving a Data Profile
-Selecting the 'Archive' action on the right side of the data profile entry will remove the data profile from the list of active data profiles.
+## Output Artifacts
+
+The type of artifact that a processor produces can be selected by clicking on the "Output Artifacts" link on the right side of the data profile entry.
+
+## Removing a Data Profile
+Clicking on the 'X' on the right side of the data profile entry will remove the data profile from the list of active data profiles.
