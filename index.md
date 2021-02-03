@@ -11,5 +11,6 @@ For more help see the following sections
 - [Profiles](./Profiles)
 - [Processors](./Processors)
 - [Resources](./Resources)
+- [Validation Reports](./Reports)
 - [Users](./Users)
 - [Configuration](./Configuration)

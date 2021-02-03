@@ -6,14 +6,18 @@ Resources are entities that contain information about datasets.
 
 A list of resources can be accessed by clicking on the 'Resources / Files' link in the main menu on the left hand side of the Lintol interface. Each resource summarises the following information:
 
+- Package Name
 - Resource Name
 - File Type
-- Source
+- Size
 - Date Added
-- Owner
-- Status - (Uploaded, No Profile, Profile Run, Report Available, New Validations)
+- Status
 
-Further details about a resource can be viewed by clicking on the 'View Resource' link on the right of a resource entry. This will display an expanded panel with information about reports that have been produced from the resource and data profiles to which the resource is linked.
+Clicking on the 'View Resource' link on the right of a resource entry will display the resource or link to the source page of the resource. TODO (confirm this)  
+
+Clicking on the 'View Reports' link on the right of a resource entry will display a list of reports produced from processors that have run against that resource.
+<!--
+This will display an expanded panel with information about reports that have been produced from the resource and data profiles to which the resource is linked. TODO (Is this gone?)-->
 
 ## Sorting and Filtering
 
