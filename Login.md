@@ -4,14 +4,19 @@
 Lintol is used in conjunction with platforms that host datasets. Logging into Lintol is done via authentication with one of these data hosting platforms. The most common integration is via CKAN
 
 ## app.lintol.io
-app.lintol.io provides an interface to set up and configure Lintol and how it validates data. It is accessed via a web browser by entering the following url - http://app.lintol.io.
+app.lintol.io provides an interface to set up and configure Lintol and how it validates data. It is accessed via a web browser by entering the following url - [http://app.lintol.io](http://app.lintol.io).
 
-The first page presented to the user is the login page. There are currently 2 authentication options: CKAN and Github<!--There are 3 options: Login, Forgotten password and Create a new user account. -->
+The first page presented to the user is the login page.<!-- There are currently 2 authentication options: CKAN and GithubThere are 3 options: Login, Forgotten password and Create a new user account. -->
 
-### CKAN
-Loggin in via CKAN can be achieved by clicking on the 'Sign in using CKAN' button. This will display an input where the user can enter a URL for their CKAN instance. Once the user has entered the URL and clicked on the 'Sign in using CKAN' button they are redirected to their CKAN login page. Once the user has logged into CKAN a page will be displayed asking for authentication with Lintol. Clicking on the 'Authorise' button will authenticate the user and redirect them back to Lintol where they will be logged in.
 
-### Github
+### Logging in with CKAN
+Login in via CKAN can be achieved by clicking on the 'Sign in using CKAN' button. This will display an input where the user can enter a URL for their CKAN instance. Once the user has entered the URL and clicked on the 'Sign in using CKAN' button they are redirected to their CKAN login page. Once the user has logged into CKAN a page will be displayed asking for authentication with Lintol. Clicking on the 'Authorise' button will authenticate the user and redirect them back to Lintol where they will be logged in.
+
+<img src="./images/login1.png" alt="Login Page Image 1" width="300"/>
+<img src="./images/login2.png" alt="Login Page Image 1" width="300"/>
+<img src="./images/auth.png" alt="Login Page Image 1" width="300"/>
+
+<!--### Github
 Logging in via Github can be achieved by clicking on the 'Sign in using Github' button. The user will be redirected to their Github login page. Once the user has logged into Github a page will be displayed asking for authentication with Lintol. Clicking on the 'Authorise' button will authenticate the user and redirect them back to Lintol where they will be logged in.
 
 <!--To log in a user account must first be registered. A registered email address must then be entered into the 'Email' input and the corresponding password into the 'Password' input. Clicking the 'Sign In' button will then log in the user.
