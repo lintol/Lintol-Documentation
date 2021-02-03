@@ -2,7 +2,7 @@
 
 A data profile is an entity that's main purpose is to group together data processors by user preference. A data profile can be created and then data processors associated with it. Assigning a data profile to a data resource will run all the associated data processors against the data resource.
 
-![alt text](./images/dps.png "A data profile containing data processors associated with a data resource")
+![A data profile containing data processors associated with a data resource](./images/dps.png "A data profile containing data processors associated with a data resource")
 
 ## Overview
 A list of data profiles can be accessed by clicking on the 'Data Profiles' link in the main menu on the left hand side of the Lintol interface. Each entry in data profile list summarises the following information:
@@ -14,10 +14,10 @@ A list of data profiles can be accessed by clicking on the 'Data Profiles' link 
 - Version
 - Unique reference
 
-## Filtering
+<!--## Filtering
 
 The list of data profiles can be refined by selecting a group from the filter dropdown list at the top of the data profiles list. Once a group has been selected it will automatically refine the list to data profiles which are members of that group.
-
+-->
 ## Add a Data Profile
 
 Clicking on the "Add a Data Profile" button on the top right of the data profiles page will display the new data profile page. A name must be entered in the "Name" input and a description in the "Description" input.
@@ -26,7 +26,7 @@ At least one data processor must be added to a data profile. Data processors can
 
 <!--Further details about the data processor can be viewed by clicking on the "More Details" button in the data processor search entry. Data processors can also be attached to the data profile from the details popup by clicking on the "Add Processor" button in the top right of the popup.-->
 
-Data processors can be configured in the new data profile page. For more details on data processors, view the [Data Processors](#data-processors) section of the documentation
+Data processors with specific options can be configured by clicking on the 'Edit' link when selecting processors for a profile. For more details on data processors, view the [Data Processors](./Processors) section of the documentation
 
 ## Edit a Data Profile
 

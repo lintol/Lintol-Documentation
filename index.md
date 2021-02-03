@@ -7,9 +7,9 @@ Lintol is a collection of components that work together to provide data validati
 Datasets that are uploaded to a CKAN instance can use the Lintol extension to automatically run various validation processes on the data. This will improve the quality, speed and cost-effectiveness of data publishing. Lintol components are web-based and are configured and managed through the Lintol web application.
 
 For more help see the following sections
-- [Login](https://lintol.github.io/Lintol-Documentation/Login)
-- [Profiles](https://lintol.github.io/Lintol-Documentation/Profiles)
-- [Processors](https://lintol.github.io/Lintol-Documentation/Processors)
-- [Resources](https://lintol.github.io/Lintol-Documentation/Resources)
-- [Users](https://lintol.github.io/Lintol-Documentation/Users)
-- [Configuration](https://lintol.github.io/Lintol-Documentation/Configuration)
+- [Login](./Login)
+- [Profiles](./Profiles)
+- [Processors](./Processors)
+- [Resources](./Resources)
+- [Users](./Users)
+- [Configuration](./Configuration)

@@ -12,9 +12,9 @@ The first page presented to the user is the login page.<!-- There are currently 
 ### Logging in with CKAN
 Login in via CKAN can be achieved by clicking on the 'Sign in using CKAN' button. This will display an input where the user can enter a URL for their CKAN instance. Once the user has entered the URL and clicked on the 'Sign in using CKAN' button they are redirected to their CKAN login page. Once the user has logged into CKAN a page will be displayed asking for authentication with Lintol. Clicking on the 'Authorise' button will authenticate the user and redirect them back to Lintol where they will be logged in.
 
-<img src="./images/login1.png" alt="Login Page Image 1" width="277"/>
-<img src="./images/login2.png" alt="Login Page Image 1" width="277"/>
-<img src="./images/auth.png" alt="Login Page Image 1" width="277"/>
+<img src="./images/login1.png" alt="Login Page Image 1" title="Login Page Image 1" width="277"/>
+<img src="./images/login2.png" alt="Login Page Image 2" title="Login Page Image 2" width="277"/>
+<img src="./images/auth.png" alt="Authentication Page" title="Authentication Page" width="277"/>
 
 <!--### Github
 Logging in via Github can be achieved by clicking on the 'Sign in using Github' button. The user will be redirected to their Github login page. Once the user has logged into Github a page will be displayed asking for authentication with Lintol. Clicking on the 'Authorise' button will authenticate the user and redirect them back to Lintol where they will be logged in.
