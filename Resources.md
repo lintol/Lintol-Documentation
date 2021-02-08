@@ -13,7 +13,7 @@ A list of resources can be accessed by clicking on the 'Resources / Files' link 
 - Date Added
 - Status
 
-Clicking on the 'View Resource' link on the right of a resource entry will display the resource or link to the source page of the resource. TODO (confirm this)  
+Clicking on the 'View Resource' link on the right of a resource entry will display the resource or link to the source page of the resource. <!-- TODO (confirm this) -->
 
 Clicking on the 'View Reports' link on the right of a resource entry will display a list of reports produced from processors that have run against that resource.
 <!--
@@ -21,7 +21,7 @@ This will display an expanded panel with information about reports that have bee
 
 ## Sorting and Filtering
 
-The list of resources can be refined by selecting an option from one or more of the filter dropdown lists at the top of the list. Once an option has been selected it will automatically refine the list to resources which apply to the filtered options. The list can also be refined by entering a search term into the text input at the top of the list. As a search term is typed, the list will be refined automatically to resources in which the name contains the search term.
+The list of resources can be refined by selecting an option from one or more of the filter dropdown inputs at the top of the list. Once an option has been selected it will automatically refine the list to resources which apply to the filtered options. The list can also be refined by entering a search term into the text input at the top of the list. As a search term is typed, the list will be refined automatically to resources in which the name contains the search term.
 
 The list of resources can be sorted by clicking on the header of each column in the list. The first click of header will order the list by that column in ascending order. If the the same column is clicked a second time, the list will be ordered by that column but in descending order. Columns will order alphabetically for text based columns, numerically for number based columns and in date order for columns containing dates.
 

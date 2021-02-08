@@ -22,7 +22,7 @@ The list of data profiles can be refined by selecting a group from the filter dr
 
 Clicking on the "Add a Data Profile" button on the top right of the data profiles page will display the new data profile page. A name must be entered in the "Name" input and a description in the "Description" input.
 
-At least one data processor must be added to a data profile. Data processors can be found by typing a search term into the "Search for a Processor" input or by scrolling through the dropdown list of search entries. Search entries show the name and a brief description of the data processor. Once the desired data processor has been found it can be added to the data profile by clicking on the "Add" button on the right of the data processor search entry.
+At least one data processor must be added to a data profile. Data processors can be found by typing a search term into the "Search for a Processor" input or by scrolling through the dropdown input of search entries. Search entries show the name and a brief description of the data processor. Once the desired data processor has been found it can be added to the data profile by clicking on the "Add" button on the right of the data processor search entry.
 
 <!--Further details about the data processor can be viewed by clicking on the "More Details" button in the data processor search entry. Data processors can also be attached to the data profile from the details popup by clicking on the "Add Processor" button in the top right of the popup.-->
 
@@ -43,7 +43,7 @@ Clicking on the 'X' on the right side of the data profile entry will remove the 
 There are some options to configure how the profile behaves
 
 ### Can run automatically
-This option will allow the profile to run automaticaly when .... TODO
+This option will allow the profile to run automaticaly when .... <!-- TODO -->
 
 ### Only run this profile if all its processors can run (on a resource)
-This option will only run the profile if each of it's processor can be run against the dataset provided. If any processor is unable to run then the whole profile will not be run. If this option is not selected then any individual processor in the profile will run if it is able and processors which are unable to run will be ignored.  TODO(Check this is true)
+This option will only run the profile if each of it's processor can be run against the dataset provided. If any processor is unable to run then the whole profile will not be run. If this option is not selected then any individual processor in the profile will run if it is able and processors which are unable to run will be ignored.  <!-- TODO(Check this is true) -->
