@@ -16,8 +16,7 @@ some changes or improvements or alternatives.
 Some things that will increase the chance that your pull request is accepted:
 
 * Write tests
-* Follow our [style guide](#style-guide).
-* Write a [good commit message](#commit-message).
+* Write a descriptive and helpful commit message.
 
 <a name="code-of-conduct"></a>
 ## Contributor Code of Conduct
