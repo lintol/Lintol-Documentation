@@ -11,7 +11,7 @@ A data processor is an entity that contains a reference to a script that can val
 
 This JSON schema defines the required output from a validation script that will be readable and consumable by the Lintol application.
 
-###Root Object
+### Root Object
 
 Example
 
@@ -37,7 +37,7 @@ Example
 - **supplementary** - A collection of additional information objects about the processor. See supplementary object
 
 
-###Supplementary Object
+### Supplementary Object
 
 Example
 
@@ -113,10 +113,10 @@ Example
 - **message** - A human readable message created to explain the error in natural language
 - **item** - An object containing additional details about the error, see item root object
 - **context** - A collection of objects containing context information of the error, see context root object
-- **error-data** - A machine-readable version of the error “message”
+- **error-data** - A machine-readable version of the error “message”  
+  
 
-
-###Item Root Object
+### Item Root Object
 
 Example
 
