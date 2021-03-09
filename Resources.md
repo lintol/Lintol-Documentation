@@ -13,11 +13,9 @@ A list of resources can be accessed by clicking on the 'Resources / Files' link 
 - Date Added
 - Status
 
-Clicking on the 'View Resource' link on the right of a resource entry will display the resource or link to the source page of the resource. <!-- TODO (confirm this) -->
+Clicking on the 'View Resource' link on the right of a resource entry will display the resource or link to the source page of the resource. 
 
 Clicking on the 'View Reports' link on the right of a resource entry will display a list of reports produced from processors that have run against that resource.
-<!--
-This will display an expanded panel with information about reports that have been produced from the resource and data profiles to which the resource is linked. TODO (Is this gone?)-->
 
 ## Sorting and Filtering
 
@@ -33,15 +31,13 @@ There are a number of ways to add a resource to Lintol. A resource can be added 
 ### Add from URL
 
 Clicking on the 'Add by URL' link will open a modal popup. One or more URLs can be added by typing or copying and pasting into the text input. Each URL should be placed on a new line. A resource will be added for each URL that is submitted when clicking on the submit button.
-<!--
-### Add from Source
 
-Clicking on one of the buttons in the 'Add from Source' section will ...
--->
 ### Add via File Upload
 
 If the user is authenticated with CKAN, clicking on the 'Upload your Files' link will redirect the user to their CKAN dataset upload page. If the user is authenticated with Github, clicking on the 'Upload your Files' link will redirect the user to their Github repositories page.
 
 Uploading a file to the associated platform will automatically populate the datasets into the Lintol "Resources / Files" section.
 
-###
+### Processing a Resource
+
+A resource can be processed by clicking on the 'Process a Resource' link at the top of the resources list. A modal popup will appear where a data profile can be selected. The modal will then close and selecting a resource will run the selected data profile against the selected resource.

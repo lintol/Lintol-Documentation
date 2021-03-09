@@ -43,7 +43,7 @@ Clicking on the 'X' on the right side of the data profile entry will remove the 
 There are some options to configure how the profile behaves
 
 ### Can run automatically
-This option will allow the profile to run automaticaly when .... <!-- TODO -->
+This option will allow the profile to run automatically. 
 
 ### Only run this profile if all its processors can run (on a resource)
-This option will only run the profile if each of it's processor can be run against the dataset provided. If any processor is unable to run then the whole profile will not be run. If this option is not selected then any individual processor in the profile will run if it is able and processors which are unable to run will be ignored.  <!-- TODO(Check this is true) -->
+This option will only run the profile if each of it's processor can be run against the dataset provided. If any processor is unable to run then the whole profile will not be run. If this option is not selected then any individual processor in the profile will run if it is able and processors which are unable to run will be ignored.
