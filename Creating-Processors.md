@@ -135,7 +135,7 @@ Example
 - **attributes** - A key-value pair list of attributes to be returned
 
 
-###Context Root Object
+### Context Root Object
 
 Example
 
@@ -156,7 +156,7 @@ Example
 - **attributes** - A key-value pair list of attributes to be returned about the context items
 
 
-###Minimum Sample Schema
+### Minimum Sample Schema
 
 ```json
     {
@@ -171,7 +171,7 @@ Example
     }
 ```
 
-###Full Example Schema
+### Full Example Schema
 
 ```json
     {
