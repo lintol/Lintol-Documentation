@@ -18,3 +18,6 @@ A list of data processors can be accessed by clicking on the 'Data Processors' l
 ## Searching
 
 The list of data processors can be refined by entering a search term into the text input at the top of the data processors list. As a search term is typed, the list will be refined automatically to data processors in which the name or description contains the search term.
+
+**If you are interested in creating your own processor, further documantation can be found**
+[Here](./Creating-Processors)

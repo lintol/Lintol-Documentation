@@ -18,11 +18,6 @@ Deploying the Lintol infrastructure on the components referenced in the Componen
 * Kops
 * Helm - prerequisites [Composer, Docker]
 
-####
-
-## Diagram
-<aside class="notice"> Infrastructure diagram needed here </aside>
-
 # Application
 
 ## Components
